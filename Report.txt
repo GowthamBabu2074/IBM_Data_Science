@@ -1,0 +1,15 @@
+The Battle of Neighbouhoods
+
+Report:-
+
+With all the analysis we came up with the following answers:-
+
+1. Astoria (Queens), Blissville (Queens), Civic Center (Manhattan) are some of
+the best neighbourhoods for Indian cuisine.
+2. Manhattan have potential Indian Restaurant Market.
+3. Staten Island ranks last in average rating of Indian Restaurants.
+4. Manhattan is the best place to stay if you prefer Indian Cuisine.
+
+Conclusion:-
+There is always room for improvement and hence the above solution that I have provided
+can also be improved for best results.
